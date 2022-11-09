@@ -1,6 +1,3 @@
-
-<metahttp-equiv ="Content-Type" content="text/html;charset=utf-8" />
-
 <h1>隐私协议  </h1>
 <p> 更新时间：【2022】年【11】月【09】日</p>
 
